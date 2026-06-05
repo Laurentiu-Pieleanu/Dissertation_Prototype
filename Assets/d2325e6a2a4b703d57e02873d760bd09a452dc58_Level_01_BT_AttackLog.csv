@@ -1,0 +1,13 @@
+AgentType,ActionType,Time,Frame
+BT , Light , 6.94 , 4015
+BT , Block , 8.09 , 4588
+BT , Block , 9.12 , 5208
+BT , Heavy , 10.30 , 5944
+BT , Block , 11.30 , 6553
+BT , Heavy , 12.31 , 7163
+BT , Light , 13.31 , 7780
+BT , Heavy , 14.31 , 8399
+BT , Light , 15.31 , 9034
+BT , Light , 16.31 , 9667
+BT , Block , 17.31 , 10268
+BT , Heavy , 18.32 , 10908
